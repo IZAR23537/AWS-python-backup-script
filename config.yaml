@@ -1,0 +1,3 @@
+backup_dir: "./data"
+s3_bucket: "my-backups-bucket"
+region: "us-east-1"
